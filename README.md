@@ -56,7 +56,7 @@ Experience the thrill of the Turtle Crossing Game, a Python implementation using
 
 
 <p align="center">
-  <img src="TurtleCrossingGameDemo.gif" width="400" height="300" alt="normal">
+  <img src="TurtleCrossingDemo.gif" width="300" height="300" alt="normal">
 </p>
 
 
