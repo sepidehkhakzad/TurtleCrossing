@@ -1,5 +1,5 @@
 
-<div align="center"> The Pong Game <br/> <br/> <img src="TurtleCrossing_icon.png" width="150"> </div>
+<div align="center"> The Turtle Crossing Game <br/> <br/> <img src="TurtleCrossing_icon.png" width="150"> </div>
 
 
 # Turtle Crossing Game in Python
